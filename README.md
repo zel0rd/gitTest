@@ -1,3 +1,3 @@
 # gitTest
 
-- This is editing from main branch
+git merge conflict resolve
